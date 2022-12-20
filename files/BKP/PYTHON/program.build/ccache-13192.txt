@@ -1,0 +1,666 @@
+[2022-12-19T09:03:05.904993 7488 ] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) base_dir = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) compiler = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) compiler_type = auto
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) compression = true
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) compression_level = 0
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) cpp_extension = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) debug = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) debug_dir = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) depend_mode = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) direct_mode = true
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) disable = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) file_clone = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) hard_link = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) hash_dir = true
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) ignore_options = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) inode_cache = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:05.904993 7488 ] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) max_files = 0
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) namespace = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) path = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) prefix_command = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) read_only = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) read_only_direct = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) recache = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) reshare = false
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) secondary_storage = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) stats = true
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) stats_log = 
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:05.904993 7488 ] Config: (default) umask = 
+[2022-12-19T09:03:05.904993 7488 ] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-12-19T09:03:05.909992 17812] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:05.909992 17812] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) base_dir = 
+[2022-12-19T09:03:05.909992 17812] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:05.909992 17812] Config: (default) compiler = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:05.909992 17812] Config: (default) compiler_type = auto
+[2022-12-19T09:03:05.909992 17812] Config: (default) compression = true
+[2022-12-19T09:03:05.909992 17812] Config: (default) compression_level = 0
+[2022-12-19T09:03:05.909992 17812] Config: (default) cpp_extension = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) debug = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) debug_dir = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) depend_mode = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) direct_mode = true
+[2022-12-19T09:03:05.909992 17812] Config: (default) disable = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) file_clone = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) hard_link = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) hash_dir = true
+[2022-12-19T09:03:05.909992 17812] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) ignore_options = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) inode_cache = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:05.909992 17812] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:05.909992 17812] Config: (default) max_files = 0
+[2022-12-19T09:03:05.909992 17812] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:05.909992 17812] Config: (default) namespace = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) path = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) prefix_command = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) read_only = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) read_only_direct = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) recache = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) reshare = false
+[2022-12-19T09:03:05.909992 17812] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:05.909992 17812] Config: (default) secondary_storage = 
+[2022-12-19T09:03:05.909992 17812] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:05.909992 17812] Config: (default) stats = true
+[2022-12-19T09:03:05.909992 17812] Config: (default) stats_log = 
+[2022-12-19T09:03:05.909992 17812] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:05.909992 17812] Config: (default) umask = 
+[2022-12-19T09:03:05.909992 17812] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __helpers.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2022-12-19T09:03:05.909992 15032] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:05.909992 15032] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) base_dir = 
+[2022-12-19T09:03:05.909992 15032] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:05.909992 15032] Config: (default) compiler = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:05.909992 15032] Config: (default) compiler_type = auto
+[2022-12-19T09:03:05.909992 15032] Config: (default) compression = true
+[2022-12-19T09:03:05.909992 15032] Config: (default) compression_level = 0
+[2022-12-19T09:03:05.909992 15032] Config: (default) cpp_extension = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) debug = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) debug_dir = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) depend_mode = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) direct_mode = true
+[2022-12-19T09:03:05.909992 15032] Config: (default) disable = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) file_clone = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) hard_link = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) hash_dir = true
+[2022-12-19T09:03:05.909992 15032] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) ignore_options = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) inode_cache = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:05.909992 15032] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:05.909992 15032] Config: (default) max_files = 0
+[2022-12-19T09:03:05.909992 15032] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:05.909992 15032] Config: (default) namespace = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) path = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) prefix_command = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) read_only = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) read_only_direct = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) recache = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) reshare = false
+[2022-12-19T09:03:05.909992 15032] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:05.909992 15032] Config: (default) secondary_storage = 
+[2022-12-19T09:03:05.909992 15032] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:05.909992 15032] Config: (default) stats = true
+[2022-12-19T09:03:05.909992 15032] Config: (default) stats_log = 
+[2022-12-19T09:03:05.909992 15032] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:05.909992 15032] Config: (default) umask = 
+[2022-12-19T09:03:05.909992 15032] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2022-12-19T09:03:05.910993 7488 ] Hostname: MateusR-PC
+[2022-12-19T09:03:05.910993 7488 ] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:05.910993 7488 ] Compiler type: gcc
+[2022-12-19T09:03:05.910993 7488 ] Source file: __constants.c
+[2022-12-19T09:03:05.910993 7488 ] Object file: __constants.o
+[2022-12-19T09:03:05.910993 7488 ] Trying direct lookup
+[2022-12-19T09:03:05.910993 7488 ] No 007d545evc5dpmeid5jm79hmohc00ol8o in primary storage
+[2022-12-19T09:03:05.914993 15032] Hostname: MateusR-PC
+[2022-12-19T09:03:05.914993 15032] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:05.914993 15032] Compiler type: gcc
+[2022-12-19T09:03:05.915994 15032] Source file: __loader.c
+[2022-12-19T09:03:05.915994 15032] Object file: __loader.o
+[2022-12-19T09:03:05.915994 17812] Hostname: MateusR-PC
+[2022-12-19T09:03:05.915994 17812] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:05.915994 17812] Compiler type: gcc
+[2022-12-19T09:03:05.915994 15032] Trying direct lookup
+[2022-12-19T09:03:05.915994 15032] No 37583t94u9e8r96am7r1ilv5tj5leb784 in primary storage
+[2022-12-19T09:03:05.915994 12256] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:05.915994 17812] Source file: __helpers.c
+[2022-12-19T09:03:05.915994 17812] Object file: __helpers.o
+[2022-12-19T09:03:05.915994 17812] Trying direct lookup
+[2022-12-19T09:03:05.915994 12256] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) base_dir = 
+[2022-12-19T09:03:05.915994 12256] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:05.915994 12256] Config: (default) compiler = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:05.915994 12256] Config: (default) compiler_type = auto
+[2022-12-19T09:03:05.915994 12256] Config: (default) compression = true
+[2022-12-19T09:03:05.915994 12256] Config: (default) compression_level = 0
+[2022-12-19T09:03:05.915994 12256] Config: (default) cpp_extension = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) debug = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) debug_dir = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) depend_mode = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) direct_mode = true
+[2022-12-19T09:03:05.915994 12256] Config: (default) disable = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) file_clone = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) hard_link = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) hash_dir = true
+[2022-12-19T09:03:05.915994 12256] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) ignore_options = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) inode_cache = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:05.915994 12256] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:05.915994 12256] Config: (default) max_files = 0
+[2022-12-19T09:03:05.915994 12256] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:05.915994 12256] Config: (default) namespace = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) path = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) prefix_command = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) read_only = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) read_only_direct = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) recache = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) reshare = false
+[2022-12-19T09:03:05.915994 12256] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:05.915994 12256] Config: (default) secondary_storage = 
+[2022-12-19T09:03:05.915994 12256] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:05.915994 12256] Config: (default) stats = true
+[2022-12-19T09:03:05.915994 12256] Config: (default) stats_log = 
+[2022-12-19T09:03:05.915994 12256] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:05.915994 12256] Config: (default) umask = 
+[2022-12-19T09:03:05.915994 12256] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+7tgdi9o in primary storage
+[2022-12-19T09:03:05.921992 12256] Hostname: MateusR-PC
+[2022-12-19T09:03:05.921992 12256] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:05.921992 12256] Compiler type: gcc
+[2022-12-19T09:03:05.921992 12256] Source file: module.__main__.c
+[2022-12-19T09:03:05.922993 12256] Object file: module.__main__.o
+[2022-12-19T09:03:05.922993 12256] Trying direct lookup
+[2022-12-19T09:03:05.922993 12256] No ff64igils71dmrq9r95q7bfvfsgtu2koi in primary storage
+[2022-12-19T09:03:05.994019 7488 ] Running preprocessor
+[2022-12-19T09:03:05.996992 17812] Running preprocessor
+[2022-12-19T09:03:06.002995 12256] Running preprocessor
+[2022-12-19T09:03:06.003994 15032] Running preprocessor
+[2022-12-19T09:03:07.909862 15032] Got result key from preprocessor
+[2022-12-19T09:03:07.909862 15032] No 02fbsqee91s6lm1rnfba6vmsuhjfnnpom in primary storage
+[2022-12-19T09:03:07.909862 15032] Running real compiler
+[2022-12-19T09:03:09.657861 7488 ] Got result key from preprocessor
+[2022-12-19T09:03:09.657861 7488 ] No 30a2qnngi68k203man8pufle0jtgqitvu in primary storage
+[2022-12-19T09:03:09.657861 7488 ] Running real compiler
+[2022-12-19T09:03:09.677863 12256] Got result key from preprocessor
+[2022-12-19T09:03:09.677863 12256] No b5825j7p1bahs6anqq6l2fimvh54t567e in primary storage
+[2022-12-19T09:03:09.677863 12256] Running real compiler
+[2022-12-19T09:03:09.684864 17812] Got result key from preprocessor
+[2022-12-19T09:03:09.684864 17812] No 6205vfdsgu56rgf5ur81uj67gbo6m2v34 in primary storage
+[2022-12-19T09:03:09.684864 17812] Running real compiler
+[2022-12-19T09:03:09.694864 15032] Using default compression level 1
+[2022-12-19T09:03:09.694864 15032] Storing embedded entry #0 .o (9659 bytes) from __loader.o
+[2022-12-19T09:03:09.696862 15032] Stored 02fbsqee91s6lm1rnfba6vmsuhjfnnpom in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/2/fbsqee91s6lm1rnfba6vmsuhjfnnpomR)
+[2022-12-19T09:03:09.697864 15032] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/7/583t94u9e8r96am7r1ilv5tj5leb784M
+[2022-12-19T09:03:09.703863 15032] Using default compression level 1
+[2022-12-19T09:03:09.705863 15032] Stored 37583t94u9e8r96am7r1ilv5tj5leb784 in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/7/583t94u9e8r96am7r1ilv5tj5leb784M)
+[2022-12-19T09:03:09.706865 15032] Result: cache_miss
+[2022-12-19T09:03:09.706865 15032] Result: direct_cache_miss
+[2022-12-19T09:03:09.706865 15032] Result: preprocessed_cache_miss
+[2022-12-19T09:03:09.706865 15032] Result: primary_storage_miss
+[2022-12-19T09:03:09.707864 15032] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:09.709864 15032] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:09.710865 15032] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-12-19T09:03:09.712865 15032] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-12-19T09:03:09.712865 15032] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.hrfEKm
+[2022-12-19T09:03:09.713864 15032] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.RKtaqo
+[2022-12-19T09:03:09.714865 15032] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.R106kC
+[2022-12-19T09:03:09.715863 15032] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.zk4NkM.i
+[2022-12-19T09:03:09.715863 15032] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.zk4NkM
+[2022-12-19T09:03:10.929863 7488 ] Using default compression level 1
+[2022-12-19T09:03:10.929863 7488 ] Storing embedded entry #0 .o (14447 bytes) from __constants.o
+[2022-12-19T09:03:10.933863 7488 ] Stored 30a2qnngi68k203man8pufle0jtgqitvu in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/0/a2qnngi68k203man8pufle0jtgqitvuR)
+[2022-12-19T09:03:10.933863 7488 ] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/0/7d545evc5dpmeid5jm79hmohc00ol8oM
+[2022-12-19T09:03:10.954864 17812] Using default compression level 1
+[2022-12-19T09:03:10.955863 17812] Storing embedded entry #0 .o (2647 bytes) from __helpers.o
+[2022-12-19T09:03:10.957864 17812] Stored 6205vfdsgu56rgf5ur81uj67gbo6m2v34 in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/2/05vfdsgu56rgf5ur81uj67gbo6m2v34R)
+[2022-12-19T09:03:10.992862 17812] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/1/bdjqdgcdlper46ekf1vm73sm7tgdi9oM
+[2022-12-19T09:03:10.992862 7488 ] Using default compression level 1
+[2022-12-19T09:03:10.992862 12256] Using default compression level 1
+[2022-12-19T09:03:10.992862 12256] Storing embedded entry #0 .o (66771 bytes) from module.__main__.o
+[2022-12-19T09:03:10.997864 7488 ] Stored 007d545evc5dpmeid5jm79hmohc00ol8o in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/0/7d545evc5dpmeid5jm79hmohc00ol8oM)
+[2022-12-19T09:03:10.997864 7488 ] Result: cache_miss
+[2022-12-19T09:03:10.997864 7488 ] Result: direct_cache_miss
+[2022-12-19T09:03:10.997864 7488 ] Result: preprocessed_cache_miss
+[2022-12-19T09:03:10.997864 7488 ] Result: primary_storage_miss
+[2022-12-19T09:03:10.998863 12256] Stored b5825j7p1bahs6anqq6l2fimvh54t567e in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/5/825j7p1bahs6anqq6l2fimvh54t567eR)
+[2022-12-19T09:03:10.998863 7488 ] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-12-19T09:03:11.000865 12256] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/f/64igils71dmrq9r95q7bfvfsgtu2koiM
+[2022-12-19T09:03:11.005864 7488 ] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-12-19T09:03:11.006863 7488 ] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:11.008864 7488 ] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:11.008864 7488 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.opNLb1
+[2022-12-19T09:03:11.008864 7488 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.F2omBb
+[2022-12-19T09:03:11.008864 7488 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.BpT7Od
+[2022-12-19T09:03:11.009863 7488 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.VLbjMp.i
+[2022-12-19T09:03:11.010863 7488 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.VLbjMp
+[2022-12-19T09:03:11.011864 17812] Using default compression level 1
+[2022-12-19T09:03:11.017863 17812] Stored 01bdjqdgcdlper46ekf1vm73sm7tgdi9o in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/1/bdjqdgcdlper46ekf1vm73sm7tgdi9oM)
+[2022-12-19T09:03:11.017863 17812] Result: cache_miss
+[2022-12-19T09:03:11.017863 17812] Result: direct_cache_miss
+[2022-12-19T09:03:11.017863 17812] Result: preprocessed_cache_miss
+[2022-12-19T09:03:11.017863 17812] Result: primary_storage_miss
+[2022-12-19T09:03:11.018864 17812] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-12-19T09:03:11.022863 17812] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-12-19T09:03:11.023862 17812] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-12-19T09:03:11.024866 17812] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-12-19T09:03:11.025864 17812] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.Pr4DAX
+[2022-12-19T09:03:11.026864 17812] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.jZ8Wv7
+[2022-12-19T09:03:11.026864 17812] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.k83pXO
+[2022-12-19T09:03:11.027864 17812] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.jTirH3.i
+[2022-12-19T09:03:11.027864 12256] Using default compression level 1
+[2022-12-19T09:03:11.027864 17812] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.jTirH3
+[2022-12-19T09:03:11.032863 12256] Stored ff64igils71dmrq9r95q7bfvfsgtu2koi in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/f/64igils71dmrq9r95q7bfvfsgtu2koiM)
+[2022-12-19T09:03:11.032863 12256] Result: cache_miss
+[2022-12-19T09:03:11.032863 12256] Result: direct_cache_miss
+[2022-12-19T09:03:11.032863 12256] Result: preprocessed_cache_miss
+[2022-12-19T09:03:11.032863 12256] Result: primary_storage_miss
+[2022-12-19T09:03:11.034864 12256] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-12-19T09:03:11.035863 12256] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-12-19T09:03:11.036864 12256] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-12-19T09:03:11.037863 12256] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-12-19T09:03:11.038864 12256] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.6LQJZv
+[2022-12-19T09:03:11.038864 12256] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.dOVIVE
+[2022-12-19T09:03:11.039864 12256] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.HC5LZo
+[2022-12-19T09:03:11.039864 12256] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.cvxi0S.i
+[2022-12-19T09:03:11.040864 12256] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.cvxi0S
+[2022-12-19T09:03:11.178863 13480] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:11.178863 13480] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) base_dir = 
+[2022-12-19T09:03:11.178863 13480] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:11.178863 13480] Config: (default) compiler = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:11.178863 13480] Config: (default) compiler_type = auto
+[2022-12-19T09:03:11.178863 13480] Config: (default) compression = true
+[2022-12-19T09:03:11.178863 13480] Config: (default) compression_level = 0
+[2022-12-19T09:03:11.178863 13480] Config: (default) cpp_extension = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) debug = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) debug_dir = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) depend_mode = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) direct_mode = true
+[2022-12-19T09:03:11.178863 13480] Config: (default) disable = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) file_clone = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) hard_link = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) hash_dir = true
+[2022-12-19T09:03:11.178863 13480] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) ignore_options = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) inode_cache = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:11.178863 13480] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:11.178863 13480] Config: (default) max_files = 0
+[2022-12-19T09:03:11.178863 13480] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:11.178863 13480] Config: (default) namespace = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) path = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) prefix_command = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) read_only = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) read_only_direct = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) recache = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) reshare = false
+[2022-12-19T09:03:11.178863 13480] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:11.178863 13480] Config: (default) secondary_storage = 
+[2022-12-19T09:03:11.178863 13480] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:11.178863 13480] Config: (default) stats = true
+[2022-12-19T09:03:11.178863 13480] Config: (default) stats_log = 
+[2022-12-19T09:03:11.178863 13480] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:11.178863 13480] Config: (default) umask = 
+[2022-12-19T09:03:11.179863 13480] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-12-19T09:03:11.181863 17280] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:11.181863 17280] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) base_dir = 
+[2022-12-19T09:03:11.181863 17280] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:11.181863 17280] Config: (default) compiler = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:11.181863 17280] Config: (default) compiler_type = auto
+[2022-12-19T09:03:11.181863 17280] Config: (default) compression = true
+[2022-12-19T09:03:11.181863 17280] Config: (default) compression_level = 0
+[2022-12-19T09:03:11.181863 17280] Config: (default) cpp_extension = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) debug = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) debug_dir = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) depend_mode = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) direct_mode = true
+[2022-12-19T09:03:11.181863 17280] Config: (default) disable = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) file_clone = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) hard_link = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) hash_dir = true
+[2022-12-19T09:03:11.181863 17280] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) ignore_options = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) inode_cache = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:11.181863 17280] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:11.181863 17280] Config: (default) max_files = 0
+[2022-12-19T09:03:11.181863 17280] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:11.181863 17280] Config: (default) namespace = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) path = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) prefix_command = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) read_only = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) read_only_direct = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) recache = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) reshare = false
+[2022-12-19T09:03:11.181863 17280] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:11.181863 17280] Config: (default) secondary_storage = 
+[2022-12-19T09:03:11.181863 17280] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:11.181863 17280] Config: (default) stats = true
+[2022-12-19T09:03:11.181863 17280] Config: (default) stats_log = 
+[2022-12-19T09:03:11.181863 17280] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:11.181863 17280] Config: (default) umask = 
+[2022-12-19T09:03:11.181863 17280] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2022-12-19T09:03:11.184863 13480] Hostname: MateusR-PC
+[2022-12-19T09:03:11.184863 13480] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:11.184863 13480] Compiler type: gcc
+[2022-12-19T09:03:11.184863 13480] Source file: static_src\CompiledCellType.c
+[2022-12-19T09:03:11.184863 13480] Object file: static_src\CompiledCellType.o
+[2022-12-19T09:03:11.185863 13480] Trying direct lookup
+[2022-12-19T09:03:11.185863 13480] No 6851ggrbf6oebonbcsi2nrqmuu3sscdae in primary storage
+[2022-12-19T09:03:11.186863 17280] Hostname: MateusR-PC
+[2022-12-19T09:03:11.186863 17280] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:11.186863 17280] Compiler type: gcc
+[2022-12-19T09:03:11.186863 17280] Source file: static_src\MainProgram.c
+[2022-12-19T09:03:11.186863 17280] Object file: static_src\MainProgram.o
+[2022-12-19T09:03:11.187865 17280] Trying direct lookup
+[2022-12-19T09:03:11.187865 17280] No 1d77en9cpt8cvgo46no9dch405alii4hk in primary storage
+[2022-12-19T09:03:11.191863 13480] Running preprocessor
+[2022-12-19T09:03:11.191863 17280] Running preprocessor
+[2022-12-19T09:03:11.624864 3020 ] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) base_dir = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) compiler = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) compiler_type = auto
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) compression = true
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) compression_level = 0
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) cpp_extension = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) debug = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) debug_dir = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) depend_mode = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) direct_mode = true
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) disable = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) file_clone = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) hard_link = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) hash_dir = true
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) ignore_options = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) inode_cache = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:11.624864 3020 ] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) max_files = 0
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) namespace = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) path = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) prefix_command = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) read_only = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) read_only_direct = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) recache = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) reshare = false
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) secondary_storage = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) stats = true
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) stats_log = 
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:11.624864 3020 ] Config: (default) umask = 
+[2022-12-19T09:03:11.624864 3020 ] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-12-19T09:03:11.629863 3020 ] Hostname: MateusR-PC
+[2022-12-19T09:03:11.630865 3020 ] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:11.630865 3020 ] Compiler type: gcc
+[2022-12-19T09:03:11.630865 3020 ] Source file: static_src\CompiledFunctionType.c
+[2022-12-19T09:03:11.630865 3020 ] Object file: static_src\CompiledFunctionType.o
+[2022-12-19T09:03:11.630865 3020 ] Trying direct lookup
+[2022-12-19T09:03:11.630865 3020 ] No 360acos3t5vpbhiejja5o4e9p40s3bh0g in primary storage
+[2022-12-19T09:03:11.636863 3020 ] Running preprocessor
+[2022-12-19T09:03:11.742864 12676] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:11.742864 12676] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) base_dir = 
+[2022-12-19T09:03:11.742864 12676] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:11.742864 12676] Config: (default) compiler = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:11.742864 12676] Config: (default) compiler_type = auto
+[2022-12-19T09:03:11.742864 12676] Config: (default) compression = true
+[2022-12-19T09:03:11.742864 12676] Config: (default) compression_level = 0
+[2022-12-19T09:03:11.742864 12676] Config: (default) cpp_extension = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) debug = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) debug_dir = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) depend_mode = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) direct_mode = true
+[2022-12-19T09:03:11.742864 12676] Config: (default) disable = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) file_clone = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) hard_link = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) hash_dir = true
+[2022-12-19T09:03:11.742864 12676] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) ignore_options = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) inode_cache = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:11.742864 12676] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:11.742864 12676] Config: (default) max_files = 0
+[2022-12-19T09:03:11.742864 12676] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:11.742864 12676] Config: (default) namespace = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) path = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) prefix_command = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) read_only = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) read_only_direct = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) recache = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) reshare = false
+[2022-12-19T09:03:11.742864 12676] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:11.742864 12676] Config: (default) secondary_storage = 
+[2022-12-19T09:03:11.742864 12676] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:11.742864 12676] Config: (default) stats = true
+[2022-12-19T09:03:11.742864 12676] Config: (default) stats_log = 
+[2022-12-19T09:03:11.742864 12676] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:11.742864 12676] Config: (default) umask = 
+[2022-12-19T09:03:11.742864 12676] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-12-19T09:03:11.747864 12676] Hostname: MateusR-PC
+[2022-12-19T09:03:11.747864 12676] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:11.747864 12676] Compiler type: gcc
+[2022-12-19T09:03:11.748864 12676] Source file: static_src\CompiledGeneratorType.c
+[2022-12-19T09:03:11.748864 12676] Object file: static_src\CompiledGeneratorType.o
+[2022-12-19T09:03:11.748864 12676] Trying direct lookup
+[2022-12-19T09:03:11.748864 12676] No cc0cm8lij367qptcsv7cocuufih8amo3c in primary storage
+[2022-12-19T09:03:11.758862 12676] Running preprocessor
+[2022-12-19T09:03:12.507864 13480] Got result key from preprocessor
+[2022-12-19T09:03:12.507864 13480] No a9939qkbarr8d53sibn7hnncmsh5vnvvg in primary storage
+[2022-12-19T09:03:12.507864 13480] Running real compiler
+[2022-12-19T09:03:12.523863 17280] Got result key from preprocessor
+[2022-12-19T09:03:12.523863 17280] No fbbcf5gv78n9eq15fccto4efngi1iufh4 in primary storage
+[2022-12-19T09:03:12.523863 17280] Running real compiler
+[2022-12-19T09:03:13.205863 12676] Got result key from preprocessor
+[2022-12-19T09:03:13.206864 12676] No 9d001b2vnn6crmds3dduf1k51m34uq98s in primary storage
+[2022-12-19T09:03:13.206864 12676] Running real compiler
+[2022-12-19T09:03:13.815864 13480] Using default compression level 1
+[2022-12-19T09:03:13.815864 13480] Storing embedded entry #0 .o (36003 bytes) from static_src\CompiledCellType.o
+[2022-12-19T09:03:13.824865 13480] Stored a9939qkbarr8d53sibn7hnncmsh5vnvvg in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/9/939qkbarr8d53sibn7hnncmsh5vnvvgR)
+[2022-12-19T09:03:13.825863 13480] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/51ggrbf6oebonbcsi2nrqmuu3sscdaeM
+[2022-12-19T09:03:13.842863 13480] Using default compression level 1
+[2022-12-19T09:03:13.850863 13480] Stored 6851ggrbf6oebonbcsi2nrqmuu3sscdae in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/51ggrbf6oebonbcsi2nrqmuu3sscdaeM)
+[2022-12-19T09:03:13.850863 13480] Result: cache_miss
+[2022-12-19T09:03:13.850863 13480] Result: direct_cache_miss
+[2022-12-19T09:03:13.850863 13480] Result: preprocessed_cache_miss
+[2022-12-19T09:03:13.850863 13480] Result: primary_storage_miss
+[2022-12-19T09:03:13.851863 13480] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-12-19T09:03:13.868864 13480] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-12-19T09:03:13.870865 13480] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-12-19T09:03:13.870865 17280] Using default compression level 1
+[2022-12-19T09:03:13.870865 17280] Storing embedded entry #0 .o (28427 bytes) from static_src\MainProgram.o
+[2022-12-19T09:03:13.873863 17280] Stored fbbcf5gv78n9eq15fccto4efngi1iufh4 in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/b/bcf5gv78n9eq15fccto4efngi1iufh4R)
+[2022-12-19T09:03:13.874865 17280] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/d/77en9cpt8cvgo46no9dch405alii4hkM
+[2022-12-19T09:03:13.879863 13480] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-12-19T09:03:13.887862 13480] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.JqXGqF
+[2022-12-19T09:03:13.887862 13480] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.mCBbGC
+[2022-12-19T09:03:13.887862 13480] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.8ccmpl
+[2022-12-19T09:03:13.888864 13480] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RsuiQF.i
+[2022-12-19T09:03:13.889863 13480] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RsuiQF
+[2022-12-19T09:03:13.892864 17280] Using default compression level 1
+[2022-12-19T09:03:13.900863 17280] Stored 1d77en9cpt8cvgo46no9dch405alii4hk in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/d/77en9cpt8cvgo46no9dch405alii4hkM)
+[2022-12-19T09:03:13.904864 17280] Result: cache_miss
+[2022-12-19T09:03:13.904864 17280] Result: direct_cache_miss
+[2022-12-19T09:03:13.904864 17280] Result: preprocessed_cache_miss
+[2022-12-19T09:03:13.904864 17280] Result: primary_storage_miss
+[2022-12-19T09:03:13.906866 17280] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-12-19T09:03:13.916864 17280] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-12-19T09:03:13.916864 17280] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-12-19T09:03:13.918863 17280] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-12-19T09:03:13.920864 17280] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.4BF3KU
+[2022-12-19T09:03:13.920864 17280] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.axXAKB
+[2022-12-19T09:03:13.921864 17280] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.KRQ1rb
+[2022-12-19T09:03:13.921864 17280] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.9J9fLN.i
+[2022-12-19T09:03:13.922864 17280] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.9J9fLN
+[2022-12-19T09:03:14.299863 3020 ] Got result key from preprocessor
+[2022-12-19T09:03:14.299863 3020 ] No d293h5931d4kl12esql7d699lemr4v530 in primary storage
+[2022-12-19T09:03:14.299863 3020 ] Running real compiler
+[2022-12-19T09:03:14.308863 13220] === CCACHE 4.6 STARTED =========================================
+[2022-12-19T09:03:14.308863 13220] Config: (default) absolute_paths_in_stderr = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) base_dir = 
+[2022-12-19T09:03:14.308863 13220] Config: (environment) cache_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-19T09:03:14.308863 13220] Config: (default) compiler = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) compiler_check = mtime
+[2022-12-19T09:03:14.308863 13220] Config: (default) compiler_type = auto
+[2022-12-19T09:03:14.308863 13220] Config: (default) compression = true
+[2022-12-19T09:03:14.308863 13220] Config: (default) compression_level = 0
+[2022-12-19T09:03:14.308863 13220] Config: (default) cpp_extension = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) debug = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) debug_dir = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) depend_mode = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) direct_mode = true
+[2022-12-19T09:03:14.308863 13220] Config: (default) disable = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) extra_files_to_hash = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) file_clone = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) hard_link = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) hash_dir = true
+[2022-12-19T09:03:14.308863 13220] Config: (default) ignore_headers_in_manifest = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) ignore_options = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) inode_cache = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) keep_comments_cpp = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) limit_multiple = 0.8
+[2022-12-19T09:03:14.308863 13220] Config: (environment) log_file = C:\Users\MateusR\IDEAPR~1\SISTEM~1\files\BKP\PYTHON\teste\program.build\ccache-13192.txt
+[2022-12-19T09:03:14.308863 13220] Config: (default) max_files = 0
+[2022-12-19T09:03:14.308863 13220] Config: (default) max_size = 5.0G
+[2022-12-19T09:03:14.308863 13220] Config: (default) namespace = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) path = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) pch_external_checksum = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) prefix_command = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) prefix_command_cpp = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) read_only = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) read_only_direct = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) recache = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) reshare = false
+[2022-12-19T09:03:14.308863 13220] Config: (default) run_second_cpp = true
+[2022-12-19T09:03:14.308863 13220] Config: (default) secondary_storage = 
+[2022-12-19T09:03:14.308863 13220] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-19T09:03:14.308863 13220] Config: (default) stats = true
+[2022-12-19T09:03:14.308863 13220] Config: (default) stats_log = 
+[2022-12-19T09:03:14.308863 13220] Config: (default) temporary_dir = C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-19T09:03:14.308863 13220] Config: (default) umask = 
+[2022-12-19T09:03:14.309863 13220] Command line: C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\MateusR\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-12-19T09:03:14.314865 13220] Hostname: MateusR-PC
+[2022-12-19T09:03:14.314865 13220] Working directory: C:/Users/MateusR/IDEAPR~1/SISTEM~1/files/BKP/PYTHON/teste/program.build
+[2022-12-19T09:03:14.314865 13220] Compiler type: gcc
+[2022-12-19T09:03:14.314865 13220] Source file: static_src\InspectPatcher.c
+[2022-12-19T09:03:14.314865 13220] Object file: static_src\InspectPatcher.o
+[2022-12-19T09:03:14.314865 13220] Trying direct lookup
+[2022-12-19T09:03:14.315865 13220] No 3bd6j92p540nfsk2ip1l436fou6gshhmc in primary storage
+[2022-12-19T09:03:14.317862 13220] Running preprocessor
+[2022-12-19T09:03:15.278861 13220] Got result key from preprocessor
+[2022-12-19T09:03:15.345888 13220] No d66e5bdiej1uto4fa74tttkihp8epsiu2 in primary storage
+[2022-12-19T09:03:15.345888 13220] Running real compiler
+[2022-12-19T09:03:15.765863 12676] Using default compression level 1
+[2022-12-19T09:03:15.765863 12676] Storing embedded entry #0 .o (361621 bytes) from static_src\CompiledGeneratorType.o
+[2022-12-19T09:03:15.768864 12676] Stored 9d001b2vnn6crmds3dduf1k51m34uq98s in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/d/001b2vnn6crmds3dduf1k51m34uq98sR)
+[2022-12-19T09:03:15.768864 12676] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/c/0cm8lij367qptcsv7cocuufih8amo3cM
+[2022-12-19T09:03:15.911861 12676] Using default compression level 1
+[2022-12-19T09:03:15.913864 12676] Stored cc0cm8lij367qptcsv7cocuufih8amo3c in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/c/0cm8lij367qptcsv7cocuufih8amo3cM)
+[2022-12-19T09:03:15.914865 12676] Result: cache_miss
+[2022-12-19T09:03:15.914865 12676] Result: direct_cache_miss
+[2022-12-19T09:03:15.914865 12676] Result: preprocessed_cache_miss
+[2022-12-19T09:03:15.914865 12676] Result: primary_storage_miss
+[2022-12-19T09:03:15.915864 12676] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-12-19T09:03:15.920865 12676] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-12-19T09:03:15.920865 12676] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-12-19T09:03:15.922865 12676] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-12-19T09:03:15.923863 12676] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.MuanDM
+[2022-12-19T09:03:15.924865 12676] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.jwSA5p
+[2022-12-19T09:03:15.925864 12676] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.6uaCFf
+[2022-12-19T09:03:15.925864 12676] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.cdEU5f.i
+[2022-12-19T09:03:15.927864 12676] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.cdEU5f
+[2022-12-19T09:03:16.705862 13220] Using default compression level 1
+[2022-12-19T09:03:16.706862 13220] Storing embedded entry #0 .o (44657 bytes) from static_src\InspectPatcher.o
+[2022-12-19T09:03:16.708864 13220] Stored d66e5bdiej1uto4fa74tttkihp8epsiu2 in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/6/6e5bdiej1uto4fa74tttkihp8epsiu2R)
+[2022-12-19T09:03:16.708864 13220] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/d6j92p540nfsk2ip1l436fou6gshhmcM
+[2022-12-19T09:03:16.725863 13220] Using default compression level 1
+[2022-12-19T09:03:16.728863 13220] Stored 3bd6j92p540nfsk2ip1l436fou6gshhmc in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/d6j92p540nfsk2ip1l436fou6gshhmcM)
+[2022-12-19T09:03:16.728863 13220] Result: cache_miss
+[2022-12-19T09:03:16.728863 13220] Result: direct_cache_miss
+[2022-12-19T09:03:16.728863 13220] Result: preprocessed_cache_miss
+[2022-12-19T09:03:16.728863 13220] Result: primary_storage_miss
+[2022-12-19T09:03:16.733862 13220] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:16.735864 13220] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:16.735864 13220] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-12-19T09:03:16.737865 13220] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-12-19T09:03:16.737865 13220] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.OkObrT
+[2022-12-19T09:03:16.738863 13220] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.WmTTIf
+[2022-12-19T09:03:16.738863 13220] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.sS6K7S
+[2022-12-19T09:03:16.739865 13220] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.fYtPof.i
+[2022-12-19T09:03:16.740866 13220] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.fYtPof
+[2022-12-19T09:03:18.818049 3020 ] Using default compression level 1
+[2022-12-19T09:03:18.818049 3020 ] Storing embedded entry #0 .o (2997480 bytes) from static_src\CompiledFunctionType.o
+[2022-12-19T09:03:18.827048 3020 ] Stored d293h5931d4kl12esql7d699lemr4v530 in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/93h5931d4kl12esql7d699lemr4v530R)
+[2022-12-19T09:03:18.827048 3020 ] Adding result key to C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/6/0acos3t5vpbhiejja5o4e9p40s3bh0gM
+[2022-12-19T09:03:18.847047 3020 ] Using default compression level 1
+[2022-12-19T09:03:18.850049 3020 ] Stored 360acos3t5vpbhiejja5o4e9p40s3bh0g in primary storage (C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/6/0acos3t5vpbhiejja5o4e9p40s3bh0gM)
+[2022-12-19T09:03:18.850049 3020 ] Result: cache_miss
+[2022-12-19T09:03:18.850049 3020 ] Result: direct_cache_miss
+[2022-12-19T09:03:18.850049 3020 ] Result: preprocessed_cache_miss
+[2022-12-19T09:03:18.850049 3020 ] Result: primary_storage_miss
+[2022-12-19T09:03:18.850049 3020 ] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:18.855048 3020 ] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-12-19T09:03:18.856050 3020 ] Acquired lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-12-19T09:03:18.889048 3020 ] Releasing lock C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-12-19T09:03:18.889048 3020 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.ZDPgV3
+[2022-12-19T09:03:18.890048 3020 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.cMhXsT
+[2022-12-19T09:03:18.890048 3020 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.qocIDA
+[2022-12-19T09:03:18.890048 3020 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.4VUM4G.i
+[2022-12-19T09:03:18.891048 3020 ] Unlink C:\Users\MateusR\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.4VUM4G
